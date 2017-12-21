@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Madera Mobile</string>
+    <string name="action_settings">Paramètres</string>
+    <string name="title_activity_select_devis">SelectDevisActivity</string>
+</resources>
